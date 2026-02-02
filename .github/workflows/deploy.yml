@@ -17,7 +17,7 @@ defaults:
     shell: bash
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
     env:
       DART_SASS_VERSION: 1.97.1
       GO_VERSION: 1.25.5
