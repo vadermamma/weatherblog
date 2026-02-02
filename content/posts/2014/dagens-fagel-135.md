@@ -1,0 +1,17 @@
+---
+title: "Dagens fågel"
+date: 2014-10-14
+categories: 
+  - "dagens-fagel"
+  - "djur-natur"
+---
+
+**Gräshoppsångare** ( Locustella naevia )
+
+![](images/Grashoppsangare-070512.jpg) _Gräshoppsångaren är en liten olivbrun sångare med mörkfläckig ovansida,gultonade flanker och vit undersida.Den lever bland högörtsvegetation,ofta i närheten av buskar och är svår att få syn på där den smyger omkring som en mus bland tät vegetation. Den är skygg och håller sig därför helst på marken och undviker att flyga. Sången är en entonig svirrande ramsa,inte helt olik en gräshoppssvärm. Den häckar o södra och mellersta Sverige och övervintrar i Västafrika. Maten består av insekter.__Boet är skålformat och byggs av strån,löv och gräs och göms väl i tät växtlighet på eller i närheten av marken._ _Längd: 12,5-13,5 cm. Vingspann: Ingen uppgift. Vikt: 14-20 gram. Livslängd: Ingen uppgift._
+
+Bilder [Falknatur](http://http://www.falknatur.se/arter/grashoppsangare.htm) Bilder [Vingspann](http://www.vingspann.se/grashoppsangare1.htm) Gräshoppsångare bilder och läte
+
+https://www.youtube.com/watch?v=Oy06K3\_mbvA https://www.youtube.com/watch?v=qGl74hBy5L0 https://www.youtube.com/watch?v=IQiGRus4ETk Gräshoppsångare filmer.
+
+På fredag kommer en ny fågel in på sidan.

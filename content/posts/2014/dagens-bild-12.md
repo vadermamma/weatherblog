@@ -1,0 +1,10 @@
+---
+title: "Dagens bild"
+date: 2014-05-06
+categories: 
+  - "dagens-bild"
+---
+
+[![20120525_154658 [1024x768]](images/20120525_154658-1024x768.jpg)](http://worldwideweatherblog.wordpress.com/wp-content/uploads/2014/05/20120525_154658-1024x768.jpg)
+
+[![20120525_154526 [1024x768]](images/20120525_154526-1024x768.jpg)](http://worldwideweatherblog.wordpress.com/wp-content/uploads/2014/05/20120525_154526-1024x768.jpg) _Strandpromenaden i Karlshamn en härlig vårdag._

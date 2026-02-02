@@ -1,0 +1,18 @@
+---
+title: "Dagens bild"
+date: 2015-06-10
+categories: 
+  - "dagens-bild"
+tags: 
+  - "asarum"
+  - "djur"
+  - "fagel"
+  - "faglar"
+  - "grasand"
+  - "mallard"
+  - "natur"
+---
+
+[![IMG_4118 [1024x768]](images/img_4118-1024x768.jpg)](https://worldwideweatherblog.wordpress.com/wp-content/uploads/2015/06/img_4118-1024x768.jpg) _Gräsand hanne i Karlshamn._
+
+[![IMG_4115 [1024x768]](images/img_4115-1024x768.jpg)](https://worldwideweatherblog.wordpress.com/wp-content/uploads/2015/06/img_4115-1024x768.jpg) _Hanne och hona solar sig._

@@ -1,0 +1,10 @@
+---
+title: "Dagens bild"
+date: 2014-05-20
+categories: 
+  - "dagens-bild"
+---
+
+[![IMG_2260 [1024x768]](images/img_2260-1024x768.jpg)](http://worldwideweatherblog.wordpress.com/wp-content/uploads/2014/05/img_2260-1024x768.jpg)
+
+[![IMG_2428 [1024x768]](images/img_2428-1024x768.jpg)](http://worldwideweatherblog.wordpress.com/wp-content/uploads/2014/05/img_2428-1024x768.jpg) _Morgonpigga djur på jakt efter mat._

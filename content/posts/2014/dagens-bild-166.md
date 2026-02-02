@@ -1,0 +1,19 @@
+---
+title: "Dagens bild"
+date: 2014-11-23
+categories: 
+  - "dagens-bild"
+  - "tradgard-och-blommor"
+tags: 
+  - "asarum"
+  - "arstider"
+  - "frost"
+  - "morgon"
+  - "natur"
+  - "tradgard"
+  - "vader"
+---
+
+[![IMG_8437 [1024x768]](images/img_8437-1024x768.jpg)](https://worldwideweatherblog.wordpress.com/wp-content/uploads/2014/11/img_8437-1024x768.jpg)
+
+[![IMG_8445 [1024x768]](images/img_8445-1024x768.jpg)](https://worldwideweatherblog.wordpress.com/wp-content/uploads/2014/11/img_8445-1024x768.jpg) _En frusen morgon._

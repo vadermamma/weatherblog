@@ -1,0 +1,17 @@
+---
+title: "Dagens bild"
+date: 2015-03-15
+categories: 
+  - "dagens-bild"
+  - "djur-natur"
+tags: 
+  - "blames"
+  - "djur"
+  - "fagel"
+  - "natur"
+  - "rodbrostad-barbett"
+---
+
+[![image_03_10_2015_07_59_54 [1024x768]](images/image_03_10_2015_07_59_54-1024x768.png)](https://worldwideweatherblog.wordpress.com/wp-content/uploads/2015/03/image_03_10_2015_07_59_54-1024x768.png) _Rödbröstad barbett i London_.
+
+[![image_03_10_2015_08_47_33 [1024x768]](images/image_03_10_2015_08_47_33-1024x768.png)](https://worldwideweatherblog.wordpress.com/wp-content/uploads/2015/03/image_03_10_2015_08_47_33-1024x768.png) _Liten blåmes i Sverige._

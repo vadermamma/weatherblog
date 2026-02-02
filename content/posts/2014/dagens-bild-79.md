@@ -1,0 +1,12 @@
+---
+title: "Dagens bild"
+date: 2014-07-15
+categories: 
+  - "dagens-bild"
+  - "resor"
+  - "skottland"
+---
+
+[![IMG_5137 [1024x768]](images/img_5137-1024x768.jpg)](https://worldwideweatherblog.wordpress.com/wp-content/uploads/2014/07/img_5137-1024x768.jpg) _Ben Nevis. Skottlands högsta berg. Det är det som ligger längst till höger _sett_ _framifrån_. Det ser mindre ut än de andra p.g.a.att det ligger så långt bort och alltid har toppen täckt av moln._
+
+[![IMG_5139 [1024x768]](images/img_5139-1024x768.jpg)](https://worldwideweatherblog.wordpress.com/wp-content/uploads/2014/07/img_5139-1024x768.jpg) _Ben Nevis i närbild. Här ser man hur _molnen_ _täcker toppen__

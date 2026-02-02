@@ -1,0 +1,11 @@
+---
+title: "Dagens bild"
+date: 2014-10-07
+categories: 
+  - "dagens-bild"
+  - "djur-natur"
+---
+
+[![IMG_3584 [1024x768]](images/img_3584-1024x768.jpg)](https://worldwideweatherblog.wordpress.com/wp-content/uploads/2014/10/img_3584-1024x768.jpg) _Ska jag gå hit..._
+
+[![IMG_3525 [1024x768]](images/img_3525-1024x768.jpg)](https://worldwideweatherblog.wordpress.com/wp-content/uploads/2014/10/img_3525-1024x768.jpg) _eller dit?_

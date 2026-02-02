@@ -1,0 +1,31 @@
+---
+title: "Dagens fågel"
+date: 2014-08-26
+categories: 
+  - "dagens-fagel"
+  - "djur-natur"
+tags: 
+  - "djur"
+  - "fagel"
+  - "merganser"
+  - "natur"
+  - "storskrake"
+---
+
+**Storskrake, Merganser.** ( Mergus merganser )
+
+![](images/800px-Mergus_merganser_m.jpg)
+
+![](images/800px-Mergus-merganser-americanus-001.jpg)
+
+![](images/1280px-2010_01_19_Goosander_011.jpg)
+
+![](images/800px-Mergus_merganser_G%C3%A4nses%C3%A4ger2.jpg)
+
+![](images/800px-Common_merganser_small.jpg) _Överst: Vuxen hanne. Underst: Vuxen hona. Hannen har grönt huvud,vitt eller apelsinfärgat bröst,svart rygg och vita kroppssidor.Näbben är röd,lång ocg tunn med nedåtböjd spets.Honan har brunt huvud med skarp gräns mot vit hals,markerad vit strupe 0ch grå kropp.Nackfjädrarna är endast svagt resta. Den häckar vid klara,fiskrika sjöar över så gott som hela Sverige. Den övervintrar i södra Sverige och västra Europa.Den är fiskätare och om hösten kan den ses i stora flockar som kan driva stim av fisk framför sig. Den häckar i håligheterpå marken och i ihåliga träd. Längd: 58-68 cm. Vingspann: 78-94 cm. Vikt: 1200-2000 gram. Livslängd: Upp till 15 år._
+
+Bilder [Falknatur](http://www.falknatur.se/arter/storskrake.htm) Bilder [Vingspann](http://www.vingspann.se/storskrake1.htm) Storskrake bilder och läte.
+
+https://www.youtube.com/watch?v=6WkRmlb9RDg https://www.youtube.com/watch?v=qF\_NR6mSg5Y https://www.youtube.com/watch?v=E7zhIEz6Rcg Storskrake filmer
+
+Ny flygande vän på fredag.

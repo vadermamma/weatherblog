@@ -1,0 +1,38 @@
+---
+title: "Söndag 4/7-21 Asarum"
+date: 2021-07-04
+categories: 
+  - "vader"
+  - "vaderrapport"
+tags: 
+  - "asarum"
+  - "mane"
+  - "moln"
+  - "natur"
+  - "regn"
+  - "sol"
+  - "sommar"
+  - "vind"
+---
+
+## Söndag 4 Juli
+
+I dag gryr dagen i Asarum 03:19. Solen går upp klockan 04:21 och ner klockan 21:49. Det mörknar vid 22:50 Dagens längd är  timmar 17 och 28 minuter. Det är dagsljus 19 timmar och 31 minuter. Månen går upp 01:32 och ned 16:10 Månen är belyst 31 %
+
+I Asarum blir dagen 1 minut och 30 sekunder kortare. Dagen har blivit 0 timmar och 10 minuter kortare sedan sommarsolståndet. Vintersolstånd om 170 dagar.
+
+Missa inte gyllene timmen som börjar klockan 20:47 i Asarum. Då står solen lågt och kastar ett fint gyllene ljus.
+
+![](images/skc3a4rmklipp55.png) Molnigt 17,6 C  Vindby 1,7 m/s NW  Luftfuktighet 97 %  hPa 1007  Regn 2,6 mm Kl.01:15
+
+ 
+
+![](images/skc3a4rmklipp4.png) Växlande molnighet 18,5 C  Vindby 1,7 m/s NNW  Luftfuktighet 97 %  hPa 1007 Kl.07:05
+
+![](images/skc3a4rmklipp64.png) Växlande molnighet 29,2 C  Vindby 1,7 m/s E  Luftfuktighet 51 %  hPa 1007 Kl.13:20
+
+![](images/skc3a4rmklipp64.png) Ökande molnighet 22,2 C  Vindby 1,7 m/s SSE  Luftfuktighet 77 %  hPa 1006 Kl.19:45
+
+Högst och lägst uppmätta temperatur igår (inofficiellt privat mätare) Max 34,2 C, Min 14 C Högst uppmätta vind 2,4 m/s, Högst uppmätta vindby 4,7 m/s
+
+Högst och lägst uppmätta temperatur igår (officiellt enligt [YR.NO](http://www.vackertvader.se/v%C3%A4derstation/karlshamn?utm_source=email&utm_medium=email&utm_campaign=asarum)) Max ? C, Min ? C Högst uppmätta vind ? m/s. Högst uppmätta vindby ? m/s

@@ -1,0 +1,29 @@
+---
+title: "Dagens fågel"
+date: 2015-03-27
+categories: 
+  - "dagens-fagel"
+  - "djur-natur"
+tags: 
+  - "djur"
+  - "fagel"
+  - "great-nothern-diver"
+  - "natur"
+  - "svartnabbad-islom"
+---
+
+**Svartnäbbad islom, Great Nothern Diver** ( Gavia immer )
+
+![Adult svartnäbbad islom i sommardräkt](images/800px-Common_Loon.jpg)
+
+![](images/800px-Plongeonhuardnid.jpg)
+
+![](images/Common_Loon_with_chick.jpg)
+
+![](images/800px-Common_Loon_head_sideways.jpg) _Den här lommen har brantare sluttande panna än sina släktingar. I sommardräkt är huvud och hals svart, svarta vingar, vitstrimmiga partier på halsens sidor och ovansidan är nästan rutig i svart och vitt. Den har kraftig svart näbb som hålls vågrätt. I vinterdräkt är ovansidan i det närmaste svart och undersidan vit. Näbben är gråvit med mörk spets. Ungfåglar har ljusa fjäderbräm på ryggen. Den häckar på Island och norra Nordamerika.I Sverige har den observerats under alla årets månader och i alla landskap utom Härjedalen. Vanligast ses den vintertid utmed kusten av Skåne och Halland. Den övervintrar längs nordvästra Europas kuster. Den häckar vid djupa sjöar eller skogklädda vikar. Som andra lommar flyger den med halsen sträckt och huvudet relativt lågt. Den dyker efter fisk men även kräftor, grodor, iglar, salamandrar, räkor, sniglar och andra vattendjur. Lätet är ett kusligt klagande skrattande som ofta används som stämningsskapande bakgrundsljud i filmer som spelas in i ödsliga, nordliga trakter._ _Boet består av en liten kulle av jord och vegetation med en urgröpning i. Den kan flyga upp till 120 km i timmen vid flyttning._ _Längd: 73-88 cm. Vingspann: 122-148 cm. Vikt: Ca. 4,1 kg ( enstaka individer upp till 8 kg ). Livslängd: Ingen uppgift._
+
+Bilder [Falknatur](http://www.falknatur.se/arter/svartnabbad_islom.htm) Bilder [Vingspann](http://www.vingspann.se/svartnabbad_islom1.htm) Svartnäbbad islom bilder och läte
+
+https://www.youtube.com/watch?v=m7uv82aMUGc https://www.youtube.com/watch?v=x7gEw\_T4T3Y https://www.youtube.com/watch?v=Aau4i9iBaNs Svartnäbbad islom filmer
+
+Ny fågel flyger hit på måndag.

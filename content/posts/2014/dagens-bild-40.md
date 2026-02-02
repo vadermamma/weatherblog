@@ -1,0 +1,18 @@
+---
+title: "Dagens bild"
+date: 2014-06-03
+categories: 
+  - "dagens-bild"
+---
+
+_Fågelinvasion_
+
+_[![IMG_3085 [1024x768]](images/img_3085-1024x768.jpg)](https://worldwideweatherblog.wordpress.com/wp-content/uploads/2014/06/img_3085-1024x768.jpg)_ _They were four_...
+
+[![IMG_3086 [1024x768]](images/img_3086-1024x768.jpg)](https://worldwideweatherblog.wordpress.com/wp-content/uploads/2014/06/img_3086-1024x768.jpg) _then they were three..._
+
+[![IMG_3126 [1024x768]](images/img_3126-1024x768.jpg)](https://worldwideweatherblog.wordpress.com/wp-content/uploads/2014/06/img_3126-1024x768.jpg) _and so they were two..._
+
+[![IMG_2950 [1024x768]](images/img_2950-1024x768.jpg)](https://worldwideweatherblog.wordpress.com/wp-content/uploads/2014/06/img_2950-1024x768.jpg) _then there was just one..._
+
+[![IMG_3144 [1024x768]](images/img_3144-1024x768.jpg)](https://worldwideweatherblog.wordpress.com/wp-content/uploads/2014/06/img_3144-1024x768.jpg) _But not for long_!

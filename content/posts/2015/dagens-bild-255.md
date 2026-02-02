@@ -1,0 +1,26 @@
+---
+title: "Dagens bild"
+date: 2015-08-01
+categories: 
+  - "dagens-bild"
+  - "djur-natur"
+tags: 
+  - "himmel"
+  - "moln"
+  - "natur"
+  - "sol"
+---
+
+_Dagens bilder går i solens tecken_
+
+[![IMG_8255 [1024x768]](images/img_8255-1024x768.jpg)](https://worldwideweatherblog.wordpress.com/wp-content/uploads/2015/08/img_8255-1024x768.jpg)
+
+[![IMG_8263 [1024x768]](images/img_8263-1024x768.jpg)](https://worldwideweatherblog.wordpress.com/wp-content/uploads/2015/08/img_8263-1024x768.jpg)
+
+[![IMG_8323 [1024x768]](images/img_8323-1024x768.jpg)](https://worldwideweatherblog.wordpress.com/wp-content/uploads/2015/08/img_8323-1024x768.jpg) _Tre soluppgångar._
+
+[![IMG_8373 [1024x768]](images/img_8373-1024x768.jpg)](https://worldwideweatherblog.wordpress.com/wp-content/uploads/2015/08/img_8373-1024x768.jpg)
+
+[![IMG_8371 [1024x768]](images/img_8371-1024x768.jpg)](https://worldwideweatherblog.wordpress.com/wp-content/uploads/2015/08/img_8371-1024x768.jpg)
+
+[![IMG_8381 [1024x768]](images/img_8381-1024x768.jpg)](https://worldwideweatherblog.wordpress.com/wp-content/uploads/2015/08/img_8381-1024x768.jpg) _Och tre solnedgångar._

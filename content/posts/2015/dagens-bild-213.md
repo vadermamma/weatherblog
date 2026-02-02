@@ -1,0 +1,19 @@
+---
+title: "Dagens bild"
+date: 2015-03-08
+categories: 
+  - "dagens-bild"
+  - "djur-natur"
+  - "djur-i-tradgarden"
+tags: 
+  - "asarum"
+  - "djur"
+  - "fagel"
+  - "hackspett"
+  - "natur"
+  - "stjartmes"
+---
+
+[![image_03_07_2015_03_33_03 (1) [1024x768]](images/image_03_07_2015_03_33_03-1-1024x768.png)](https://worldwideweatherblog.wordpress.com/wp-content/uploads/2015/03/image_03_07_2015_03_33_03-1-1024x768.png) _Hacke i trädgården._
+
+[![image_03_07_2015_03_53_14 [1024x768]](images/image_03_07_2015_03_53_14-1024x768.png)](https://worldwideweatherblog.wordpress.com/wp-content/uploads/2015/03/image_03_07_2015_03_53_14-1024x768.png) _Stjärtmes i trädgården_

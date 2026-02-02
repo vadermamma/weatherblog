@@ -1,0 +1,12 @@
+---
+title: "Dagens bild"
+date: 2015-03-03
+categories: 
+  - "dagens-bild"
+  - "djur-natur"
+  - "djur-i-tradgarden"
+---
+
+[![image_03_02_2015_09_02_58 [1024x768]](images/image_03_02_2015_09_02_58-1024x768.png)](https://worldwideweatherblog.wordpress.com/wp-content/uploads/2015/03/image_03_02_2015_09_02_58-1024x768.png) _En svan vid havet._
+
+[![image_03_03_2015_09_05_29 [1024x768]](images/image_03_03_2015_09_05_29-1024x768.png)](https://worldwideweatherblog.wordpress.com/wp-content/uploads/2015/03/image_03_03_2015_09_05_29-1024x768.png) _En stare i trädgården._

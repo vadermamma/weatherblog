@@ -1,0 +1,29 @@
+---
+title: "Dagens fågel"
+date: 2015-05-18
+categories: 
+  - "dagens-fagel"
+  - "djur-natur"
+tags: 
+  - "djur"
+  - "fagel"
+  - "little-stint"
+  - "natur"
+  - "smasnappa"
+---
+
+**Småsnäppa, Little stint** ( Calidris minuta )
+
+![Adult i sommardräkt](images/Little_Stint.jpg)
+
+![Adult i vinterdräkt fotograferad i El Fayoum, Egypten den 5 januari.](images/Little_Stint_%28Calidris_minuta%29.jpg)
+
+![](images/Common_greenshank_%26_little_stint.jpg)
+
+![](images/Terek_Sandpiper_%26_Little_Stint_%28Calidris_minuta%29_W3_IMG_6891.jpg) _Småsnäppan är, som namnet antyder, en mycket liten vadare. Båda könen har svarta ben i alla åldrar. I sommardräkt är ovansidan rödbrun med mörka fläckar. Bröstets sidor är spräckliga i orange och brunt. Resten av undersidan är vit. Vingarna är mörkbruna med vitt vingband. I vinterdräkt är ovansidan grå med mörkare sträck och teckningen på bröstet är gråaktig. Ungfåglar liknar vuxna i sommardräkt med vitt V på manteln ( detta V saknar mosnäppan ). Den häckar i nordligaste Europa och Asien och övervintrar i Afrika söder om Sahara. Den passerar Sverige under flyttningen och rastar framför allt under höstflyttningen. Häckningen sker på högarktisk tundra, vid kusten. Den rastar vid sandstränder och leriga tidvattenområden. Håller oftast samman i små flockar och kilar omkring och plockar insekter och larver från vattenytan eller marken. Boet är en grund grop_ _i jorden, där 3-5 ägg läggs_. _Honan är ofta polygam och överlåter åt hanen att ruva en kull medan hon lägger en ny i ett annat revir._ _Längd: 12-14 cm. Vingspann: 34-37 cm. Vikt: 20-30 gram. Livslängd: Omkring 8 år och 10 månader._
+
+Bilder [Falknatur](http://www.falknatur.se/arter/smasnappa.htm) Bilder [Vingspann](http://www.vingspann.se/smasnappa1.htm) Småsnäppa bilder och läte
+
+https://www.youtube.com/watch?v=WxMQyCtK8L4 https://www.youtube.com/watch?v=SNjmCQcLe1Y https://www.youtube.com/watch?v=m7C3lkx8sXs Småsnäppa filmer
+
+Ny gäst på fredag

@@ -1,0 +1,12 @@
+---
+title: "Dagens bild"
+date: 2014-08-27
+categories: 
+  - "dagens-bild"
+  - "djur-natur"
+  - "djur-i-tradgarden"
+---
+
+[![IMG_7461 [1024x768]](images/img_7461-1024x768.jpg)](https://worldwideweatherblog.wordpress.com/wp-content/uploads/2014/08/img_7461-1024x768.jpg) _En talgoxe i vårt lilla träd._
+
+[![IMG_7480 [1024x768]](images/img_7480-1024x768.jpg)](https://worldwideweatherblog.wordpress.com/wp-content/uploads/2014/08/img_7480-1024x768.jpg) _En hare i gräset._

@@ -1,0 +1,18 @@
+---
+title: "Dagens bild"
+date: 2015-03-20
+categories: 
+  - "dagens-bild"
+  - "djur-natur"
+  - "london"
+  - "skottland"
+tags: 
+  - "djur"
+  - "humla"
+  - "natur"
+  - "zebra"
+---
+
+[![image_03_07_2015_11_23_46 [1024x768]](images/image_03_07_2015_11_23_46-1024x768.png)](https://worldwideweatherblog.wordpress.com/wp-content/uploads/2015/03/image_03_07_2015_11_23_46-1024x768.png) _En humla i Skottland_
+
+[![PhotoArt_03_19_2015_08_06_18 [1024x768]](images/photoart_03_19_2015_08_06_18-1024x768.png)](https://worldwideweatherblog.wordpress.com/wp-content/uploads/2015/03/photoart_03_19_2015_08_06_18-1024x768.png) _En zebra i London_

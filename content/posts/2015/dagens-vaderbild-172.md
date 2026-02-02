@@ -1,0 +1,14 @@
+---
+title: "Dagens väderbild"
+date: 2015-03-24
+categories: 
+  - "vader"
+  - "vaderrapport"
+tags: 
+  - "asarum"
+  - "himmel"
+  - "moln"
+  - "natur"
+---
+
+[![instaweather_20150324_065546](images/instaweather_20150324_065546.jpg)](https://worldwideweatherblog.wordpress.com/wp-content/uploads/2015/03/instaweather_20150324_065546.jpg) _Grått och trist._

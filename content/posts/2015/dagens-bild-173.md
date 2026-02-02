@@ -1,0 +1,12 @@
+---
+title: "Dagens bild"
+date: 2015-01-21
+categories: 
+  - "dagens-bild"
+tags: 
+  - "djur"
+  - "fagel"
+  - "faglar"
+---
+
+[![img1421774667251 [1024x768]](images/img1421774667251-1024x768.jpg)](https://worldwideweatherblog.wordpress.com/wp-content/uploads/2015/01/img1421774667251-1024x768.jpg) _Bättre en fågel i handen..._

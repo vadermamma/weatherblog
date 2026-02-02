@@ -1,0 +1,10 @@
+---
+title: "Dagens bild"
+date: 2014-10-16
+categories: 
+  - "dagens-bild"
+---
+
+[![IMG_5010 [1024x768]](images/img_5010-1024x768.jpg)](https://worldwideweatherblog.wordpress.com/wp-content/uploads/2014/10/img_5010-1024x768.jpg)
+
+[![IMG_5011 [1024x768]](images/img_5011-1024x768.jpg)](https://worldwideweatherblog.wordpress.com/wp-content/uploads/2014/10/img_5011-1024x768.jpg) _Speglingar i vattnet. Johannes bilder._

@@ -1,0 +1,14 @@
+---
+title: "Dagens bild"
+date: 2014-09-30
+categories: 
+  - "dagens-bild"
+  - "djur-natur"
+  - "djur-i-tradgarden"
+---
+
+[![IMG_3429 [1024x768]](images/img_3429-1024x768.jpg)](https://worldwideweatherblog.wordpress.com/wp-content/uploads/2014/09/img_3429-1024x768.jpg)
+
+[![IMG_3431 [1024x768]](images/img_3431-1024x768.jpg)](https://worldwideweatherblog.wordpress.com/wp-content/uploads/2014/09/img_3431-1024x768.jpg) _Undrar om man kan hitta_ _något gott här?_
+
+_Johannes bilder._

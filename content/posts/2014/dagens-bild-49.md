@@ -1,0 +1,10 @@
+---
+title: "Dagens bild"
+date: 2014-06-12
+categories: 
+  - "dagens-bild"
+---
+
+[![IMG_2657 [1024x768]](images/img_2657-1024x768.jpg)](https://worldwideweatherblog.wordpress.com/wp-content/uploads/2014/06/img_2657-1024x768.jpg) _Vissa individer vägrar att stå stilla så att man kan få en bra bild. Så man får nöja sig med en suddig._
+
+[![IMG_2698 [1024x768]](images/img_2698-1024x768.jpg)](https://worldwideweatherblog.wordpress.com/wp-content/uploads/2014/06/img_2698-1024x768.jpg) _Andra poserar gärna och visar upp sig i all sin glans._
