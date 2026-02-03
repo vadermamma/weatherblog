@@ -1,0 +1,14 @@
+name = "zola-worker"
+compatibility_date = "2025-08-15"
+
+routes = [
+  { pattern = "blog.puffes.xyz", custom_domain = true },
+  { pattern = "www.blog.puffes.xyz", custom_domain = true }
+]
+
+[build]
+command = './build.sh'
+
+[assets]
+directory = "./public/"
+not_found_handling = "404-page"

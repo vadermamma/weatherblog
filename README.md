@@ -1,47 +1,126 @@
-<img align="right" width="150" alt="logo" src="https://user-images.githubusercontent.com/5889006/190859553-5b229b4f-c476-4cbd-928f-890f5265ca4c.png">
+<p align="center">
+    <a href="https://www.getzola.org/">
+        <img src="https://img.shields.io/badge/powered_by-Zola-brightgreen?style=flat-square&labelColor=202b2d&color=087e96" alt="Built with Zola"></a>
+    <a href="https://github.com/welpo/tabi">
+        <img src="https://img.shields.io/badge/theme-tabi-0?style=flat-square&labelColor=202b2d&color=087e96" alt="tabi theme"></a>
+    <a href="https://welpo.github.io/tabi/blog/mastering-tabi-settings/">
+        <img src="https://img.shields.io/badge/docs-here-0?style=flat-square&labelColor=202b2d&color=087e96" alt="Documentation"></a>
+</p>
 
-# Hugo Theme Stack Starter Template
+# tabi start
 
-This is a quick start template for [Hugo theme Stack](https://github.com/CaiJimmy/hugo-theme-stack). It uses [Hugo modules](https://gohugo.io/hugo-modules/) feature to load the theme.
+Start blogging in minutes with [Zola](https://www.getzola.org/) and [tabi](https://github.com/welpo/tabi).
 
-It comes with a basic theme structure and configuration. GitHub action has been set up to deploy the theme to a public GitHub page automatically. Also, there's a cron job to update the theme automatically everyday.
+![Screenshot of tabi theme](https://cdn.jsdelivr.net/gh/welpo/tabi@main/light_dark_screenshot.png)
 
-## Video Tutorial
+## Quick start
 
-In case you got lost during the setup process, here's a video tutorial that setups a new Hugo site using this template, and deploys it to GitHub Pages: https://www.youtube.com/watch?v=8qDdQQ6Ifxo
+1. On the top right of this page, click "Use this template" → "Create a new repository"
+2. Replace placeholders in `content/_index.md` and in the first four lines of `config.toml`
+3. Save your profile photo to `static/img/profile.webp` (or change the path to your image in `content/_index.md`)
+4. Start writing in `content/blog/`. See `content/blog/hello.md` for an example
 
-## Get started
+**Note**: an error like `Tried to build search index for language ko which is not supported`, means Zola does not support search for that language. To disable search, set `build_search_index = false` in `config.toml`
 
-1. Click *Use this template*, and create your repository as `<username>.github.io` on GitHub. (You can also use a different repository name, but then the resulting website will be available at `https://<username>.github.io/<repository-name>`. )
-![Step 1](https://user-images.githubusercontent.com/5889006/156916624-20b2a784-f3a9-4718-aa5f-ce2a436b241f.png)
+> [!TIP]
+> Take a look through `config.toml` to customise further (set up [social links](https://welpo.github.io/tabi/blog/mastering-tabi-settings/#social-media-icons), your [email](https://welpo.github.io/tabi/blog/mastering-tabi-settings/#encoded-email)…). The [Mastering tabi Settings](https://welpo.github.io/tabi/blog/mastering-tabi-settings/) guide has more details.
 
-2. Once the repository is created, create a GitHub codespace associated with it.
-![Create codespace](https://user-images.githubusercontent.com/5889006/156916672-43b7b6e9-4ffb-4704-b4ba-d5ca40ffcae7.png)
+> [!WARNING]
+> Syntax highlighting works on Zola `0.22.0` and newer. For older versions, set in `config.toml`:
 
-3. While waiting for the codespace to be created, go to `Settings` -> `Pages` of your newly created repository, and set `Build and deployment` -> `Source` to `GitHub Actions`.
-![Change build and deployment source](https://github.com/user-attachments/assets/192459bf-25d8-441e-8029-c108d789e449)
+    [markdown]
+    highlight_code = true
+    bottom_footnotes = true
+    # To use a Zola built-in theme, CSP needs to allow unsafe-inline for style-src.
+    highlight_theme = "css"
+    smart_punctuation = true
 
-4. After the codespace is created, you can test that the site is built successfully by running `hugo server` in the terminal and see your new site in action. 
+## File structure
 
-5. Check `config` folder for the configuration files. You can edit them to suit your needs. Make sure to update the `baseurl` property in `config/_default/config.toml` to your site's URL. For example, if your new repository is named `my-blog`, then the `baseurl` should be `https://<username>.github.io/my-blog/`.
-
-6. Once you're done editing the site, just commit it and push it. GitHub action will deploy the site automatically to GitHub page asociated with the repository.
-
----
-
-In case you don't want to use GitHub codespace, you can also run this template in your local machine. **You need to install Git, Go and Hugo extended locally.** For more information, check official Hugo documentation: https://gohugo.io/installation/
-
-## Update theme manually
-
-Run:
-
-```bash
-hugo mod get -u github.com/CaiJimmy/hugo-theme-stack/v4
-hugo mod tidy
+```tree
+├── config.toml              # Site configuration
+├── content/
+│   ├── _index.md            # Home page
+│   ├── archive/             # Archive page
+│   │   └── _index.md        # Archive page section
+│   ├── blog/                # Blog posts
+│   │   ├── hello.md         # Sample post
+│   │   └── _index.md        # Blog section configuration
+│   └── projects/            # Projects page
+│       ├── cool_project.md  # Sample project
+│       └── _index.md        # Projects section configuration
+│── static/
+│   └── img/
+│       └── profile.webp     # Profile photo for home page
+└── themes/
+    └── tabi/                # tabi theme
 ```
 
-> This starter template has been configured with `v4` version of theme. Due to the limitation of Go module, once the `v4` or up version of theme is released, you need to update the theme manually. (Modifying `config/module.toml` file)
+## Local development
 
-## Deploy to another static page hostings
+1. [Install Zola](https://www.getzola.org/documentation/getting-started/installation/)
+2. Clone your repository
+3. Run `git submodule update --init --recursive`
+4. Run `zola serve`
+5. Visit http://127.0.0.1:1111. You should see [this](https://tabi-start.pages.dev/).
 
-Check official Hugo documentation: https://gohugo.io/host-and-deploy/
+## Deployment
+
+Refer to the [Zola documentation](https://www.getzola.org/documentation/deployment/overview/):
+
+- [AWS S3 Bucket](https://www.getzola.org/documentation/deployment/aws-s3/)
+- [Cloudflare Pages](https://www.getzola.org/documentation/deployment/cloudflare-pages/)
+- [Codeberg Pages](https://www.getzola.org/documentation/deployment/codeberg-pages/)
+- [Docker image](https://www.getzola.org/documentation/deployment/docker-image/)
+- [Edgio](https://www.getzola.org/documentation/deployment/edgio/)
+- [Fly.io](https://www.getzola.org/documentation/deployment/flyio/)
+- [GitHub Pages](https://www.getzola.org/documentation/deployment/github-pages/)
+- [GitLab Pages](https://www.getzola.org/documentation/deployment/gitlab-pages/)
+- [Netlify](https://www.getzola.org/documentation/deployment/netlify/)
+- [Sourcehut Pages](https://www.getzola.org/documentation/deployment/sourcehut/)
+- [Vercel](https://www.getzola.org/documentation/deployment/vercel/)
+- [Zeabur](https://www.getzola.org/documentation/deployment/zeabur/)
+
+## Updating tabi
+
+### Automated updates
+
+This template includes a [GitHub Action workflow](https://github.com/welpo/tabi-start/blob/main/.github/workflows/update-tabi.yml) that checks for tabi theme updates weekly and creates a PR when updates are available.
+
+#### Setting up permissions
+
+The automated updates require proper GitHub Actions permissions:
+
+1. Go to your repository's Settings → Actions → General
+2. Scroll down to "Workflow permissions"
+3. Enable "Allow GitHub Actions to create and approve pull requests"
+4. Save changes
+
+<details>
+<summary>How automated updates work (click to read)</summary>
+
+- Every Monday at midnight (UTC), the workflow checks for new tabi versions
+- If an update is found, it creates a PR with:
+  - Detailed changelog
+  - Links to relevant commits and PRs
+  - The exact changes being made
+- It runs the Test build workflow. If the build fails, you'll receive an email notification. **Verify the site works locally before merging the PR**
+- You can review and merge these updates at your convenience
+
+</details>
+
+### Manual updates
+
+```bash
+git submodule update --remote themes/tabi
+```
+
+## Support
+
+- [tabi documentation](https://welpo.github.io/tabi/)
+- [Zola documentation](https://www.getzola.org/documentation/getting-started/overview/)
+
+> [!TIP]
+> How was your experience with this template?
+>
+> Share your thoughts in this [tabi discussion](https://github.com/welpo/tabi/discussions/440) or [report any issues](https://github.com/welpo/tabi/issues/new?&labels=bug&template=2_bug_report.yml) you find! Thank you 🙇🏼‍♂️

@@ -1,8 +1,0 @@
----
-title: "Dagens bild"
-date: 2014-08-25
-categories: 
-  - "dagens-bild"
----
-
-[![IMG_7511 [1024x768]](images/img_7511-1024x768.jpg)](http://worldwideweatherblog.wordpress.com/wp-content/uploads/2014/08/img_7511-1024x768.jpg) _Gryning i Dala._

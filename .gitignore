@@ -1,5 +1,2 @@
-public
-resources
-.hugo_build.lock
+public/
 .DS_Store
-assets/jsconfig.json
