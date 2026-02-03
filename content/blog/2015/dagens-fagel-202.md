@@ -1,0 +1,31 @@
+---
+title: "Dagens fågel"
+date: 2015-04-06
+categories: 
+  - "dagens-fagel"
+  - "djur-natur"
+tags: 
+  - "djur"
+  - "fagel"
+  - "gannets"
+  - "havssula"
+  - "natur"
+---
+
+**Havssula, Gannets** ( Morus bassanus )
+
+![Morus bassanus (taxobox).jpg](images/Morus_bassanus_%28taxobox%29.jpg)
+
+![Morus bassanus 32.jpg](images/800px-Morus_bassanus_32.jpg)
+
+![Northern-Gannet-6.jpg](images/800px-Northern-Gannet-6.jpg)
+
+![](images/800px-Morus_bassanus_adu.jpg)
+
+![](images/1024px-Morus_bassanus_11.jpg) _Havssulan är en stor havsfågel med spetsiga vingar, lång kilformad stjärt och stor dolklik näbb. Gamla fåglar är övevägande vita med svarta vingspetsar, gulbeige huvud och blåvit näbb. Ögat är ljusblått och omgivet av bar, svart hud. Under häckningen är huvud och nacke gulfärgade. Ungfåglar är brunspräckliga._ _Mängden vitt i dräkten ökar fram tills fågeln får adult dräkt vid tre års ålder. Den lever ute till havs, men ses oftare från land än övriga havsfåglar. Den häckar i Nordatlanten, som närmast i Norge och på de Brittiska öarna. Regelbunden gäst utanför Västkusten. Antalet har ökat under 2000-talet. Den lever på fisk och störtdyker från hög höjd. Den häckar i täta kolonier i klippor och fågelberg. Havssulan är flyttfågel och de flesta övervintrar till havs längre söderut i Atlanten._ _Havssulepar kan förbli tillsammans under flera säsonger. De utför komplicerade hälsningsritualer vid boet genom att sträcka näbbarna och halsarna mot skyn och mjukt knacka näbbarna mot varandra. Längd: 87-100 cm. Vingspann: 165-180 cm. Vikt: 2,3-3,6 kg. Livslängd: Upp till 32 år och 3 månader._
+
+Bilder [Falknatur](http://www.falknatur.se/arter/havssula.htm) Bilder [Vingspann](http://www.vingspann.se/havssula.htm) Havssula bilder och läte
+
+https://www.youtube.com/watch?v=SiT9lNN\_QFY https://www.youtube.com/watch?v=q6yYdQTOXj0 https://www.youtube.com/watch?v=0wBfCREpBJ0 Havssula filmer
+
+Ny gäst kommer på  fredag.

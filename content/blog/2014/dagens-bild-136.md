@@ -1,0 +1,11 @@
+---
+title: "Dagens bild"
+date: 2014-10-12
+categories: 
+  - "dagens-bild"
+  - "djur-natur"
+---
+
+[![IMG_5049 [1024x768]](images/img_5049-1024x768.jpg)](https://worldwideweatherblog.wordpress.com/wp-content/uploads/2014/10/img_5049-1024x768.jpg) _Här är det jag som bestämmer._
+
+[![IMG_5047 [1024x768]](images/img_5047-1024x768.jpg)](https://worldwideweatherblog.wordpress.com/wp-content/uploads/2014/10/img_5047-1024x768.jpg) _Nej. För det är jag._

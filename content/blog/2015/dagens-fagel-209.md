@@ -1,0 +1,29 @@
+---
+title: "Dagens fågel"
+date: 2015-05-03
+categories: 
+  - "dagens-fagel"
+  - "djur-natur"
+tags: 
+  - "djur"
+  - "fagel"
+  - "fjallvrak"
+  - "natur"
+  - "rough-legged-buzzard"
+---
+
+**Fjällvråk, Rough legged buzzard** ( Buteo lagopus )
+
+![Buteo lagopus 29283.JPG](images/640px-Buteo_lagopus_29283.JPG)
+
+![](images/800px-Raufu%C3%9Fbussard-K%C3%BCken.jpg)
+
+![](images/800px-Buteo_lagopus%2C_Falkenberg%2C_Halland%2C_Sweden.jpg)
+
+![](images/800px-Buteo_lagopus%2C_Terelj_NP%2C_Mongolia.jpg) _Fjällvråken är mycket lik ormvråken. Båda arternas fjäderdräkter varierar mycket i utseende. Vuxna fåglar har som regel ljust huvud och ljus undersida, utom buken som är mörk. Vingarna är ofta vita undertill med mörka spetsar och stora mörka knogfläckar. Stjärten är vit med mörkt ändband. Den häckar i norra Skandinavien, norra Finland och norra Ryssland. Den övervintrar från södra Sverige och Danmark söderut. Ett fåtal individer ses varje år i östra Storbritannien. Den häckar på klipphyllor eller skyddade platser på marken i fjälltrakter och på tundra. Är beroende av smågnagare, särskilt lämmel, för att lyckas med häckningen. Den övervintrar i öppna kulturlandskap. Ryttlar ofta till skillnad mor ormvråk._ _Längd: 50-60 cm. Vingspann: 120-150 cm. Vikt: 0,5-1,4 kg. Livslängd: Ingen uppgift._
+
+Bilder [Falknatur](http://www.falknatur.se/arter/fjallvrak.htm) Bilder [Vingspann](http://www.vingspann.se/fjallvrak1.htm) Fjällvråk bilder och läte
+
+https://www.youtube.com/watch?v=ahn82QJR4KY https://www.youtube.com/watch?v=siHKNzft9Ng https://www.youtube.com/watch?v=q1-zwmQ-TnQ Fjällvråk filmer.
+
+På fredag är vi tillbaks med en ny fågel.

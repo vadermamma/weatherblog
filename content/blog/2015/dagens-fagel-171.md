@@ -1,0 +1,28 @@
+---
+title: "Dagens fågel"
+date: 2015-01-07
+categories: 
+  - "dagens-fagel"
+  - "djur-natur"
+tags: 
+  - "coastal-lab"
+  - "djur"
+  - "fagel"
+  - "faglar"
+  - "kustlabb"
+  - "natur"
+---
+
+**Kustlabb, Coastal Lab** ( Stercorarius parasiticus )
+
+![](images/640px-ArcticSkua3.jpg)
+
+![](images/Arctic_Skua_%28Stercorarius_parasiticus%29_-_geograph.org.uk_-_599975.jpg)
+
+![](images/1024px-Parasitic_Jaeger.jpg) _Kustlabben är den vanligaste labben och i storlek som en fiskmås. Den förekommer i mörk och ljus fas, samt i mellanformer. Flykten är sbabb och smidig och den kan i vissa lägen påminna om en falk. Gamla fåglar har spetsiga, kraftigt förlängda mellersta stjärtpennor. Den häckar på Nordatlantens kuster samt lokalt på Sveriges västkust och i Östersjöns skärgårdar. Den är en tropikflyttare med vinterkvarter utanför Afrikas kuster. Den lever framförallt av fisk som den rövar från andra fåglar, Boet är en fördjupning i marken som är omgiven av växtrester. Oftast är det placerat på toppen av ett kalt skär. Längd: 37-42 cm. Vingspann: 100-115 cm. Vikt: 330-610 gram. Livslängd. Upp till 31 år och en månad._
+
+Bilder [Falknatur](http://www.falknatur.se/arter/kustlabb.htm) Bilder [Vingspann](http://www.vingspann.se/kustlabb1.htm) Kustlabb bilder och läte
+
+https://www.youtube.com/watch?v=6pk9yVKdUGg https://www.youtube.com/watch?v=ZoduEXuDGSs https://www.youtube.com/watch?v=rgVa4oUYBVs Kustlabb filmer
+
+Ny gäst på fredag.

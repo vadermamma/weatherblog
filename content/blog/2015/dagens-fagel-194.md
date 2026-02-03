@@ -1,0 +1,29 @@
+---
+title: "Dagens fågel"
+date: 2015-03-13
+categories: 
+  - "dagens-fagel"
+  - "djur-natur"
+tags: 
+  - "berglarka"
+  - "djur"
+  - "fagel"
+  - "faglar"
+  - "natur"
+---
+
+**Berglärka** ( Eremophila alpestris )
+
+![Berglärka (E. a. flava)](images/Eremophila_alpestris2.jpg)
+
+![](images/Bergl%C3%A4rka-Eremophila_alpestris.jpg)
+
+![](images/800px-Horned_Lark_%28Eremophila_alpestris%29.jpg)
+
+![](images/800px-Eremophila_alpestris3.jpg) _Det här är den lärka som är lättast att känna igen. Ovansidan är vattrad i rosaaktigt brunt, vingarna mörkbruna, undersidan vit med rödbruna strimmor på flankerna och stjärten svart med bruna pennor i mitten och vita på kanterna. Halskragen är svart och huvudets teckning är typiskt: ansiktet, pannan och strupen är ljusgula, hjässan rödbrun med smala svrta "horn" över vardera ögat hos hannen. Tygeln är svart och en svart strimma löper neråt under ögat. Den häckar bara i Skandinaviens fjälltrakter och arktiska Ryssland, ovanför trädgränsen på fjällhed, tundra och torra stäpper. Vintertid kan små grupper ses på strandängar och sandstränder och på stubbåkrar där de går och plockar frön.. Den övervintrar längs nordsjökusten._ _Maten består av frön och under häckningssäsongen även insekter. Boet läggs på marken öppet eller på en liten tuva, i kråkbärsris eller vid en sten. Det byggs av mossa, gräs, lav och rottrådar och fodras med några fjädrar, videull och renhår.__Längd: 14-17 cm. Vingspann: 30-35 cm. Vikt: 33-45 gram. Livslängd: Ingen uppgift._
+
+Bilder [Falknatur](http://www.falknatur.se/arter/berglarka.htm) Bilder [Vingspann](http://www.vingspann.se/berglarka1.htm) Berglärka bilder och läte
+
+https://www.youtube.com/watch?v=-MOsQo1v1Ks https://www.youtube.com/watch?v=7adEd54SGC4 https://www.youtube.com/watch?v=q5mfHGEt1Os Berglärka filmer
+
+Det kommer en ny gäst på måndag.

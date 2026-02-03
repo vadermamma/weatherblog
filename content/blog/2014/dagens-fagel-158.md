@@ -1,0 +1,29 @@
+---
+title: "Dagens fågel"
+date: 2014-12-10
+categories: 
+  - "dagens-fagel"
+  - "djur-natur"
+tags: 
+  - "fagel"
+  - "faglar"
+  - "grey-plover"
+  - "kustpipare"
+  - "natur"
+---
+
+**Kustpipare, Grey Plover** ( Pluvialis squatarola )
+
+![](images/800px-Pluvialis_squatarola_%28summer_plumage%29.jpg)
+
+![](images/Pluvialis_squatarola.jpg)
+
+![](images/800px-Black-bellied_Plover_%28Pluvialis_squatarola%29_RWD.jpg)
+
+![](images/800px-Pluvialis_squatarola_no.JPG) _I sin sommardräkt är kustpiparen elegant tecknad i svart,vitt och grått. Gamla fåglar i vinterdräkt och ungfåglar är övervägande grå. I flykten syns ett brett  vitt vingband,vit övergump och  typiskt svarta armhålor. Den häckar på den sibiriska tundran. Den ses regelbundet på sandiga och gyttjiga stränder under sträcktid. Den övervintrar längs kusterna från Västeuropa till Sydafrika. Födan på häckningsområdena domineras av insekter och bär. I Sverige mest av havsborstmaskar,blötdjur och kräftdjur. Boet är en grund fördjupning på grusig eller stenig tundra._ _Längd: 25-30 cm. Vingspann: 55-63 cm. Vikt: 170-320 gram. Livslängd: Ca. 3 år och 1 mån. Osäker uppgift om åldern._
+
+Bilder [Falknatur](http://www.falknatur.se/arter/kustpipare.htm) Bilder [Vingspann](http://www.vingspann.se/kustpipare1.htm) Kustpipare bilder och läte
+
+https://www.youtube.com/watch?v=-NreXALma9k https://www.youtube.com/watch?v=ft2I660prgY https://www.youtube.com/watch?v=g\_hayAtvjA8 Kustpipare filmer
+
+Nästa fågel kommer på fredag

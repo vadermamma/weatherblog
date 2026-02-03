@@ -1,0 +1,36 @@
+---
+title: "Väderrapport 5/6-22 Asarum"
+date: 2022-06-05
+categories: 
+  - "vader"
+  - "vaderrapport"
+tags: 
+  - "asarum"
+  - "mane"
+  - "moln"
+  - "natur"
+  - "regn"
+  - "sol"
+  - "sommar"
+  - "vind"
+---
+
+## Söndag 5 Juni
+
+I dag gryr dagen i Asarum 03:18. Solen går upp klockan 04:18 och ner klockan 21:41. Det mörknar vid 22:41 Dagens längd är  timmar 17 och 23 minuter. Det är dagsljus 19 timmar och 23 minuter. Månen går upp 09:27 och ned 01:35 Månen är belyst 25 %
+
+I Asarum blir dagen 2 minuter och 4 sekunder längre. Dagen har blivit 10 timmar och 29 minuter längre sedan vintersolståndet. Sommarsolstånd om 16 dagar.
+
+Missa inte gyllene timmen som börjar klockan 20:38 i Asarum. Då står solen lågt och kastar ett fint gyllene ljus.
+
+![](images/skc3a4rmklipp58.png) Klart 8 C  Vindstilla  Luftfuktighet 91 %  hPa 1016 Kl.01:35
+
+![](images/skc3a4rmklipp63.png) Klart 12,9 C  Vindby 0,6 m/s WNW  Luftfuktighet 67 %  hPa 1016 Kl.07:10
+
+![](images/skc3a4rmklipp63.png) Klart 25,5 C  Vindby 2,4 m/s NW  Luftfuktighet 31 %  hPa 1015 Kl.13:20
+
+![](images/skc3a4rmklipp4.png) Höga tunna moln 17,3 C  Vindby 1,9 m/s ENE  Luftfuktighet 62 %  hPa 1013 Kl.19:45
+
+Högst och lägst uppmätta temperatur igår (inofficiellt privat mätare) Max 33 C, Min 5,2 C Högst uppmätta vind 3,1 m/s, Högst uppmätta vindby 5,3 m/s
+
+Högst och lägst uppmätta temperatur igår (officiellt enligt [YR.NO](http://www.vackertvader.se/v%C3%A4derstation/karlshamn?utm_source=email&utm_medium=email&utm_campaign=asarum)) Max 20,9 C, Min 6,1 C Högst uppmätta vind 2,7 m/s. Högst uppmätta vindby 6,7 m/s

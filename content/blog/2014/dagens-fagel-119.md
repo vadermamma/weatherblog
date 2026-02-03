@@ -1,0 +1,21 @@
+---
+title: "Dagens fågel"
+date: 2014-09-04
+categories: 
+  - "dagens-fagel"
+  - "djur-natur"
+---
+
+**Storskarv** (Phalacrocorax carbo)
+
+![](images/640px-Phalacrocorax_carbo_Austins_Ferry_2.jpg)
+
+![](images/640px-Great_Cormorant_Baby.jpg)
+
+![](images/Great_Cormorant_%28Phalacrocorax_carbo%29_near_Hodal_W_IMG_6516.jpg)
+
+![](images/800px-Cormorant_%28Phalacrocorax_carbo%29_%2814%29.JPG) _Storskarven är en stor svart sjöfågel. Vuxna fåglar har en vit fläck vid näbbens bas. Ovansidan är bronsglänsande,undersidan grön-eller blåglänsande.I häckningsdräkt med vit lårfläck.Mellanskarvar som häckar i Sverige har mer vitt i dräkten än atlantiska fåglar. Ungfåglarna är bruna med vit undersida.De ses ofta stå och torka vingarna. De häckar längs Östersjökusten samt vid större sjöar i södra Sverige. De svenska skarvarna är flyttfåglar med huvudsakliga vinterkvarter i Mellaneuropa. De lever på fisk och grupper av skarvar kan fiska tillsammans och driva fisken framför sig. De häckar i kolonier och boet är oftast i träd._ _Längd: 80-95 cm. Vingspann: 130-160 cm. Vikt: c.a 2,5 kg. Livslängd: Upp till 23 år och 6 månader._
+
+Bilder [Falknatur](http://www.falknatur.se/arter/storskarv.htm) Bilder [Vingspann](http://www.vingspann.se/storskarv1.htm) Storkarv bilder och läte
+
+https://www.youtube.com/watch?v=Y3OMuKZKdwM https://www.youtube.com/watch?v=NmFR\_XIIruI https://www.youtube.com/watch?v=-x04uOVJH8Q Storskarv filmer Vi ses på Måndag igen med en ny gäst här.

@@ -1,0 +1,30 @@
+---
+title: "Dagens fågel"
+date: 2015-04-13
+categories: 
+  - "dagens-fagel"
+  - "djur-natur"
+tags: 
+  - "djur"
+  - "fagel"
+  - "jaktfalk"
+  - "natur"
+---
+
+**Jaktfalk** ( Falco rusticolus )
+
+![](images/640px-Gyr_falcon_-_Falco_rusticolus_-_F%C3%A1lki_2.jpg)
+
+![](images/640px-Gyr_falcon_-_Falco_rusticolus_-_F%C3%A1lki_3.jpg)
+
+![](images/Falco_rusticolus_-Iceland_-flying-8.jpg)
+
+![](images/Gyr_falcon_-_Falco_rusticolus_-_F%C3%A1lki_5.jpg)
+
+![](images/640px-Gyr_falcon_-_Falco_rusticolus_-_F%C3%A1lki_6.jpg) _Jaktfalken är en stor kraftig rovfågel med mycket varierande fjäderdräkt. Typiska sydliga fåglar är på ovansidan fläckiga och bandade i mörkgrått och ljusgrått och har vit undersida med kraftiga mörka fläckar. Nordliga fåglar är ljusare och gråare. På Grönland förekommer en mycket ljus form som är vit med små svarta prickar. Den förekommer på Island och arktiska områden i Europa. I Sverige är den sällsynt från Härjedalen till Torne Lappmark. Den häckar i fjällbranter, klippkuster och berg. Den livnär sig av fåglar, havsfåglar vid kusten och främst ripor i inlandet, och däggdjur,t.ex. sorkar och harar, i större utsträckning än pilgrimsfalken gör. Boet är ett gammalt korp- ellerfjällvråksbo i en bergsbrant._ _Längd: 53-63cm. Vingspann: 109-134 cm. Vikt: 1280-1720 gram. Livslängd:_
+
+Bilder [Falknatur](http://www.falknatur.se/arter/jaktfalk.htm) Bilder [Vingspann](http://www.vingspann.se/jaktfalk1.htm) Jaktfalk bilder och läte
+
+https://www.youtube.com/watch?v=dei54u1BKjk https://www.youtube.com/watch?v=V4UADZRMrhg https://www.youtube.com/watch?v=jHSw3b8JZzA Jaktfalk filmer
+
+En ny gäst flyger förbi på fredag.

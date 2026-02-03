@@ -1,0 +1,36 @@
+---
+title: "Väderrapport 19/6-23 Asarum"
+date: 2023-06-19
+categories: 
+  - "vader"
+  - "vaderrapport"
+tags: 
+  - "asarum"
+  - "mane"
+  - "moln"
+  - "natur"
+  - "regn"
+  - "sol"
+  - "sommar"
+  - "vind"
+---
+
+## Måndag 19 Juni
+
+I dag gryr dagen 03:09. Solen går upp klockan 04:12 och ner klockan 21:52. Det mörknar vid 22:55 Dagens längd är  timmar 17 och 40 minuter. Det är dagsljus 19 timmar och 46 minuter. Månen går upp 04:33 och ned 23:33 Månen är belyst 1 %
+
+I Asarum blir dagen 0 minuter och 25 sekunder längre. Dagen har blivit 10 timmar och 45 minuter längre sedan vintersolståndet. Sommarsolstånd om 2 dagar.
+
+Missa inte gyllene timmen som börjar klockan 20:48 i Asarum. Då står solen lågt och kastar ett fint gyllene ljus.
+
+![](images/skc3a4rmklipp91.png)Mest klart 11,9 C  Vindby 0,3 m/s E  Luftfuktighet 97 %  hPa 1008 Kl.01:25
+
+![](images/skc3a4rmklipp65.png) Halvklart 14,9 C  Vindby 1,7 m/s SSW  Luftfuktighet 99 %  hPa 1008 Kl.07:30
+
+![](images/skc3a4rmklipp63.png) Klart 24,7 C  Vindby 1,4 m/s N  Luftfuktighet 55 %  hPa 1009 Kl.13:35
+
+![](images/skc3a4rmklipp1.png) Molnigt 18,5 C  Vindby 0,7 m/s ESE  Luftfuktighet 85 %  hPa 1009 Kl.20:05
+
+Högst och lägst uppmätta temperatur igår (inofficiellt privat mätare) Max 28,5 C, Min 12,5 C Högst uppmätta vind 1,4 m/s, Högst uppmätta vindby 2,8 m/s
+
+Högst och lägst uppmätta temperatur igår (officiellt enligt [YR.NO](http://www.vackertvader.se/v%C3%A4derstation/karlshamn?utm_source=email&utm_medium=email&utm_campaign=asarum)) Max 18,4 C, Min 11,4 C Högst uppmätta vind 2,3 m/s. Högst uppmätta vindby 5,1 m/s

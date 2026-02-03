@@ -1,0 +1,10 @@
+---
+title: "Dagens bild"
+date: 2014-05-17
+categories: 
+  - "dagens-bild"
+---
+
+[![IMG_2235 [1024x768]](images/img_2235-1024x7681.jpg)](http://worldwideweatherblog.wordpress.com/wp-content/uploads/2014/05/img_2235-1024x7681.jpg)
+
+[![IMG_2390 [1024x768]](images/img_2390-1024x7681.jpg)](http://worldwideweatherblog.wordpress.com/wp-content/uploads/2014/05/img_2390-1024x7681.jpg) _Tidig morgon i Vettekulla.Det är alltid lika vackert där på morgonen._

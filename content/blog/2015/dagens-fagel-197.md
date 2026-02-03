@@ -1,0 +1,28 @@
+---
+title: "Dagens fågel"
+date: 2015-03-23
+categories: 
+  - "dagens-fagel"
+  - "djur-natur"
+tags: 
+  - "djur"
+  - "fagel"
+  - "natur"
+  - "skarpiplarka"
+---
+
+**Skärpiplärka** ( Anthus petrosus )
+
+![Anthus petrosus3.jpg](images/640px-Anthus_petrosus3.jpg)
+
+![Anthus petrosus4.jpg](images/640px-Anthus_petrosus4.jpg)
+
+![](images/Faroe_Island.1.bird.jpg)
+
+![](images/800px-Eurasian_rock_pipit.jpg) _Skärpiplärkan har övervägande mörk, streckad, smutsbrun fjäderdräkt. Ovansidan är brungrå med olivton, manteln är mörkstreckad, vingpennorna mörka i centrum och vingbanden otydligt bei_ge. _Undersidan är smutsvit med beige ton på bröst och flanker, bådadera är kraftigt streckade. De yttre stjärtpennorna är gråvita. Den hörde tidigare till samma art som vattenpiplärkan och de är mycket lika varandra vintertid. Den häckar i nordvästra Frankrike, Brittiska öarna, Skandinavien och Finland. Nordliga fåglar övervintrar längs Nordsjökusten och söderut längs Europas atlantkust. Den häckar nästan alltid på skär och klippiga kuster. Boet byggs i en hålighet i en klippa eller strandbrink, eller under tät växtlighet ovanför tidvattenlinjen. Den sjunger i flykten som vattenpiplärkan, men sången har färre men längre fraser. Den lever på insekter. Längd: 16-17 cm. Vingspann: 23-28 cm. Vikt: Ingen uppgift. Livslängd: Omkring 8 år och 1 månad._
+
+Bilder [Falknatur](http://www.falknatur.se/arter/skarpiplarka.htm) Bilder [Vingspann](http://www.vingspann.se/skarpiplarka1.htm) Skärpiplärka  bilder och läte
+
+https://www.youtube.com/watch?v=75\_wnIGaDSY https://www.youtube.com/watch?v=7N\_iUAFswUM https://www.youtube.com/watch?v=VU4IZtG7SXI Skärpiplärka filmer
+
+Ny fågel flyger hit på fredag.

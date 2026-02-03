@@ -1,0 +1,32 @@
+---
+title: "Dagens fågel"
+date: 2014-11-12
+categories: 
+  - "dagens-fagel"
+  - "djur-natur"
+tags: 
+  - "djur"
+  - "fagel"
+  - "havsorn"
+  - "natur"
+  - "rovfagel"
+  - "seaagle"
+---
+
+**Havsörn, Sea Eagle** ( Haliaeetus albicilla )
+
+![](images/800px-Seeadler-flug.jpg)
+
+![](images/800px-Haliaeetus_albicilla_1_%28Bohu%C5%A1_%C4%8C%C3%AD%C4%8Del%29.jpg)
+
+![](images/800px-Merikotkas.jpg)
+
+![](images/800px-Noor_merikotkas_puul..jpg)
+
+![](images/800px-Wiki-c-ojirowashi.jpg) _Havsörnen är en mycket stor fågel med långa breda vingar,kort kilformad stjärt och långt framskjutande huvud. Gamla fåglar är bruna med ljusare huvud och hals,enfärgat blekgul näbb och vit stjärt. Ungfåglar är enfärgat bruna med mörk näbb och stjärt. Häckar i fjällen samt längs östkusten. Den äter fisk,sjöfågel och as. Den bygger ett mycket stort risbo, ofta i en gammal tall._ _Längd: 1 m. Vingspann: 2,5 m. Vikt: 4-7 kg. Livslängd: Upp till 40 år. Oftast ca 15 år._
+
+Bilder [Falknatur](http://www.falknatur.se/arter/havsorn.htm) Bilder [Vingspann](http://www.vingspann.se/havsorn1.htm) Havsörn bilder och läte
+
+https://www.youtube.com/watch?v=FLPOGk9SwHw https://www.youtube.com/watch?v=nE9GQ6alx0c https://www.youtube.com/watch?v=ewy0U75cPeI Havsörn filmer
+
+En ny fågel kommer in på fredag

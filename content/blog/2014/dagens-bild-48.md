@@ -1,0 +1,10 @@
+---
+title: "Dagens bild"
+date: 2014-06-11
+categories: 
+  - "dagens-bild"
+---
+
+[![IMG_1605 [1024x768]](images/img_1605-1024x768.jpg)](https://worldwideweatherblog.wordpress.com/wp-content/uploads/2014/06/img_1605-1024x768.jpg) _Riktigt moln..._
+
+[![IMG_1033 [1024x768]](images/img_1033-1024x768.jpg)](https://worldwideweatherblog.wordpress.com/wp-content/uploads/2014/06/img_1033-1024x768.jpg) _och konstgjort moln._

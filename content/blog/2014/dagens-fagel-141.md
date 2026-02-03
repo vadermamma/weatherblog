@@ -1,0 +1,35 @@
+---
+title: "Dagens fågel"
+date: 2014-10-27
+categories: 
+  - "dagens-fagel"
+  - "djur-natur"
+tags: 
+  - "alfagel"
+  - "djur"
+  - "fagel"
+  - "long-tailed-duck"
+  - "natur"
+---
+
+**Alfågel. Long Tailed Duck** ( Clangula hyemalis )
+
+![](images/800px-Clangula_hyemalis_Hokkaido21.jpg)
+
+![](images/800px-Clangula-hyemalis-011.jpg)
+
+![](images/800px-Long-tailed_Duck_on_nest.jpg)
+
+![](images/800px-Long-tailed-duck.jpg)
+
+![](images/800px-Clangula-hyemalis-010.jpg)
+
+![](images/800px-Long-tailed_Duck_RWD1.jpg)
+
+![](images/800px-Long-tailed_Duck_RWD2.jpg) _Alfågeln är en liten dykand. Gamla hannar har mycket lång,spetsig utdragen stjärt.Utseendet är mycket_ _variabelt med flera urskiljbara dräkter.Häckningsdräkten är dominerande svart och mörkt brun. Vintertid är den övervägande vit. Honorna är bruna med vita stora fält på huvudets sidor. Den är en sällsynt häckfågel vid fisktomma sjöar i fjällen.Fåglar från tundran övervintrar i stora antal i centrala Östersjön._ _Den föredrar att häcka i fuktiga mosaikmiljöer med små och grunda sjöar omgivna av starrängar, med skyddade boplatser i form av småöar och holmar. Vintertid samlas den i stora flockar i marina miljöer, ofta långt ut, men ibland i skyddade laguner och flodmynningar, och mycket sällan på stora isfria sjöar. De livnär sig på musslor, blötdjur, kräftdjur samt vattenlevande insekter och insektslarver. I häckningsbiotopen födosöker de oftast nära ytan men vintertid dyker de ofta ned till 35 meters djup och kan dyka ned till 50–60 meters djup.Den placerar sitt bo, som är en uppskrapad, eller en naturligt förekommande grop, direkt på torr mark_. _Längd: 39-47 cm. Vingspann: 65-82 cm. Vikt: 600-1000 gram. Livslängd:_ _Upp till 22 år och 8 månader._
+
+Bilder [Falknatur](http://www.falknatur.se/arter/alfagel.htm) Bilder [Vingspann](http://www.vingspann.se/alfagel1.htm) Alfågel bilder och läte.
+
+https://www.youtube.com/watch?v=QBuiU9kBJvg https://www.youtube.com/watch?v=msZ1ppr\_xUU https://www.youtube.com/watch?v=HwNSVTRTbuU Alfågel filmer
+
+Vi ses om ett par dagar igen med en ny gäst på sidan.

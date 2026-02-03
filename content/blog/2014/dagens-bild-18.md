@@ -1,0 +1,14 @@
+---
+title: "Dagens bild"
+date: 2014-05-11
+categories: 
+  - "dagens-bild"
+---
+
+**Boön i Karlshamn del 3**
+
+[![OLYMPUS DIGITAL CAMERA](images/p4191019-1024x768.jpg)](http://worldwideweatherblog.wordpress.com/wp-content/uploads/2014/05/p4191019-1024x768.jpg)
+
+[![OLYMPUS DIGITAL CAMERA](images/p4191080-1024x768.jpg)](http://worldwideweatherblog.wordpress.com/wp-content/uploads/2014/05/p4191080-1024x768.jpg)
+
+[![OLYMPUS DIGITAL CAMERA](images/p4191113-1024x768.jpg)](http://worldwideweatherblog.wordpress.com/wp-content/uploads/2014/05/p4191113-1024x768.jpg) _Fotograf: Johannes Wikström_

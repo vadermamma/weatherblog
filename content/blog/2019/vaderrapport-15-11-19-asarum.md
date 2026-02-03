@@ -1,0 +1,39 @@
+---
+title: "Väderrapport 15/11-19 Asarum"
+date: 2019-11-15
+categories: 
+  - "vader"
+  - "vaderrapport"
+tags: 
+  - "asarum"
+  - "host"
+  - "himmel"
+  - "mane"
+  - "moln"
+  - "natur"
+  - "regn"
+  - "sol"
+  - "vind"
+---
+
+## Fredag 15 November
+
+I dag gryr dagen i Asarum 06:55. Solen går upp klockan 07:37 och ner klockan 15:52. Det mörknar vid 16:35. Dagens längd är  timmar 8 och 15 minuter. Det är dagsljus 9 timmar och 40 minuter. Månen går upp 17:58 och ned 10:31 Månen är belyst 94 %
+
+I Asarum blir dagen 3 minuter och 49 sekunder kortare. Dagen har blivit 9 timmar och 25 minuter kortare sedan sommarsolståndet. Vintersolstånd om 37 dagar.
+
+Missa inte gyllene timmen som börjar klockan 14:50 i Asarum. Då står solen lågt och kastar ett fint gyllene ljus
+
+![](images/skc3a4rmklipp57.png) Klart med enstaka moln 1,2 C  Vindby 1 m/s SW  Luftfuktighet 95 %  hPa 1014 Kl.02:00
+
+![](images/skc3a4rmklipp70.png) Ökande molnighet 3,4 C  Vindby 2,8 m/s ENE  Luftfuktighet 94 %  hPa 1014 Kl.07:30
+
+![](images/skc3a4rmklipp1.png) Molnigt 8,3 C  Vindby 5,4 m/s E  Luftfuktighet 73 %  hPa 1012 KL.13:25
+
+![](images/skc3a4rmklipp73.png) Lätt regn 6,3 C  Vindby 4 m/s SE  Luftfuktighet 91 %  hPa 1010  Regn 0,7 mm Kl.19.45
+
+ 
+
+Högst och lägst uppmätta temperatur igår (inofficiellt privat mätare) Max 12,6 C, Min - 0,3 C Högst uppmätta vind 1,7 m/s, Högst uppmätta vindby 2,4 m/s
+
+Högst och lägst uppmätta temperatur igår (officiellt enligt [YR.NO](http://www.vackertvader.se/v%C3%A4derstation/karlshamn?utm_source=email&utm_medium=email&utm_campaign=asarum)) Max 8,4 C, Min - 1,2 C Högst uppmätta vind 1,6 m/s. Högst uppmätta vindby 4,6 m/s

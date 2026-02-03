@@ -1,0 +1,35 @@
+---
+title: "Väderrapport 23/9-21 Asarum"
+date: 2021-09-23
+categories: 
+  - "vader"
+  - "vaderrapport"
+tags: 
+  - "asarum"
+  - "host"
+  - "moln"
+  - "natur"
+  - "regn"
+  - "sol"
+  - "vind"
+---
+
+## Torsdag 23 September
+
+I dag gryr dagen i Asarum 06:11. Solen går upp klockan 06:48 och ner klockan 18:57. Det mörknar vid 19:34 Dagens längd är  timmar 12 och 9 minuter. Det är dagsljus 13 timmar och 23 minuter. Månen går upp 20:00 och ned 09:17 Månen är belyst 96 %
+
+I Asarum blir dagen 4 minut och 40 sekunder kortare. Dagen har blivit 5 timmar och 29 minuter kortare sedan sommarsolståndet. Vintersolstånd om 89 dagar.
+
+Missa inte gyllene timmen som börjar klockan 18:10 i Asarum. Då står solen lågt och kastar ett fint gyllene ljus.
+
+![](images/skc3a4rmklipp55.png) Molnigt 11,6 C  Vindby 1,2 m/s SSE  Luftfuktighet 98 %  hPa 1009 Kl.01:20
+
+![](images/skc3a4rmklipp1.png) Molnigt 13,9 C  Vindby 3,1 m/s WSW  Luftfuktighet 92 %  hPa 1002 Kl.08:00
+
+![](images/skc3a4rmklipp105.png) Molnigt och en del regn 16 C  Vindby 6,1 m/s W  Luftfuktighet 92 %  hPa 993  Regn 0,6 mm Kl.14:05
+
+![](images/skc3a4rmklipp73.png) Duggregn 9,5 C  Vindby 1,6 m/s S  Luftfuktighet 86 %  hPa 989  Regn 5,7 mm Kl.19:35
+
+Högst och lägst uppmätta temperatur igår (inofficiellt privat mätare) Max 21,5 C, Min 9,4 C Högst uppmätta vind 1,7 m/s, Högst uppmätta vindby 3,6 m/s
+
+Högst och lägst uppmätta temperatur igår (officiellt enligt [YR.NO](http://www.vackertvader.se/v%C3%A4derstation/karlshamn?utm_source=email&utm_medium=email&utm_campaign=asarum)) Max 16 C, Min 8,6 C Högst uppmätta vind 2 m/s. Högst uppmätta vindby 5 m/s

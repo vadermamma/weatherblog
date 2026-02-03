@@ -1,0 +1,17 @@
+---
+title: "Väderrapport 9/3-14  Asarum"
+date: 2014-03-09
+categories: 
+  - "vader"
+  - "vaderrapport"
+---
+
+Idag går solen upp 06:32 och ned 17:51
+
+![Halvklart](images/02d.png) Halvklart med höga slöjmoln  1,2 C  Vindby 0,7 m/s ENE  Luftfuktighet  90 %  hPa 1027 Kl.06:40
+
+![Växlande molnighet](images/03d.png) Växlande molnighet och en del dis 11 C   Vindby 1,5 m/s SE  Luftfuktighet 66 %  hPa 1027 Kl.13:15
+
+![Klart](images/01n.png) Klart  1,7 C  Vindby 0,3 m/s W  Luftfuktighet  89 %  hPa 1024 Kl.20:00
+
+Tack för idag.

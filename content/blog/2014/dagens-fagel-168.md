@@ -1,0 +1,44 @@
+---
+title: "Dagens fågel"
+date: 2014-12-31
+categories: 
+  - "dagens-fagel"
+  - "djur-natur"
+tags: 
+  - "bewiks-swan"
+  - "djur"
+  - "fagel"
+  - "faglar"
+  - "mindre-sangsvan"
+  - "natur"
+  - "sangsvan"
+  - "whooper-swan"
+---
+
+**Mindre sångsvan, Bewicks Swan** ( Cygnus columbianus )
+
+**Sångsvan, Who0per Swan** ( Cygnus cygnus )
+
+![](images/1024px-Cygnus_bewickii_01.jpg)
+
+![](images/800px-Whistling_Swan_RWD2.jpg) _Mindre sångsvan._
+
+![](images/1280px-WhooperSwan1.jpg)
+
+![](images/640px-Cygnus_cygnus_070416_IOL.jpg)
+
+![](images/1024px-Whooper_Swan.jpg)
+
+![](images/800px-Whooper_Swan_RWD2.jpg)
+
+![](images/800px-Whooper_Swans_at_Big_Waters.jpg)
+
+![http://upload.wikimedia.org/wikipedia/commons/1/10/Whooper_Swan_at_Big_Waters.jpg](images/Whooper_Swan_at_Big_Waters.jpg) _Sångsvan. Den mindre sångsvanen har kortare hals och något mindre näbb med mer begränsad mjukt avrundad gul teckning. Hos sångsvanen är den gula teckningen mera utbredd och sträcker sig fram mot näbbspetsen i en spetsig kil. Mindre sångsvan häckar på tundran i norra Ryssland och övervintrar i nordsjöområdet,men ses regelbundet under såväl vår- som höststräck i Sverige. Sångsvanen häckar i stora delar av Sverige och ses dessutom i stort antal såväl under sträck som vintertid. Båda arterna livnär sig till stor del på vattenväxter. De ses dessutom regelbundet beta på åkrar, framför allt på höstraps men även på höstsådd. Boet är en stor hög av växtmaterial på små öar eller i sjökanten. Mindre sångsvan: Längd: 115- 150 cm. Vingspann: 168 cm. Vikt: 6,6 kg. Livslängd: Ingen uppgift. Sångsvan: Längd: 140-160 cm. Vingspann: 205-240 cm. Vikt: 6-11,5 kg. Livslängd: Upp till 25 år och 7 månader._
+
+Bilder [Falknatur](http://www.falknatur.se/arter/mindre_sangsvan.htm) Bilder [Vingspann](http://www.vingspann.se/mindre_sangsvan1.htm) Mindre sångsvan bilder och läte
+
+Bilder [Falknatur](http://www.falknatur.se/arter/sangsvan.htm) Bilder [Vingspann](http://www.vingspann.se/sangsvan1.htm) Sångsvan bilder och läte
+
+https://www.youtube.com/watch?v=pcLo393EUj4 https://www.youtube.com/watch?v=u5ffDYhUQDk Mindre sångsvan filmer https://www.youtube.com/watch?v=Cz8KShremPs https://www.youtube.com/watch?v=C86Ae15gZ8k https://www.youtube.com/watch?v=LYTH6VVHFcM Sångsvan filmer
+
+På fredag kommer en ny fågel.

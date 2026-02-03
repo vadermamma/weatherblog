@@ -1,0 +1,29 @@
+---
+title: "Dagens fågel"
+date: 2015-08-21
+categories: 
+  - "dagens-fagel"
+  - "djur-natur"
+tags: 
+  - "angshok"
+  - "djur"
+  - "fagel"
+  - "montagus-harrier"
+  - "natur"
+---
+
+**Ängshök, Montagu's Harrier** ( Circus pygargus )
+
+![Adult hane. Notera att bröstet är grått och att man även ser de fina rödbruna längsstreckningen på nedre delen av bröstet](images/800px-Circus_pygargus_male_flight.jpg)
+
+![Juvenil (1k) ängshök.](images/800px-Montagu%27s_Harrier_-_Female.jpg)
+
+![](images/800px-Flickr_-_don_macauley_-_Bird_015.jpg) _Vuxna hannar är grå. De liknar hannar av [blå kärrhök](https://worldwideweatherblog.wordpress.com/2015/02/06/dagens-fagel-184/), men har ett svart band över ovansidans armpennor, mörkare grå rygg och vingtäckare och mindre iögonfallande övergump. Den har rödbruna strimmor på kroppens sidor. Även vuxna honor är mycket lika honor av [blå kärrhök](https://worldwideweatherblog.wordpress.com/2015/02/06/dagens-fagel-184/), men de är slankare och har smalare vingar, med kraftigt bandade undre vingtäckare och oftast mindre vitt på övergumpen. Ungfåglarna ser ut som honor men är rödbruna under. Den häckar i litet antal i spridda delar av Europa och Asien. I Sverige bara i de sydöstligaste delarna. Den övervintrar i  Afrika söder om Sahara, särskilt i öster. Den häckar på myrar, hedar, ängsmark och i unga skogsplanteringar. Boet byggs på marken i tät vegetation. Den livnär sig på allt från stora insekter till små däggdjur och fåglar. Det är främst hannen som skaffar mat till ungarna men honan som matar dem._
+
+_Längd: 39-50 cm. Vingspann: 96-116 cm. Vikt: 230-445 gram. Livslängd: Ingen uppgift._
+
+Bilder [Falknatur](http://www.falknatur.se/arter/angshok.htm) Bilder [Vingspann](http://www.vingspann.se/angshok1.htm) Bilder [Larslundmark](http://www.larslundmark.se/angshok.php) Ängshök bilder och läte
+
+https://www.youtube.com/watch?v=UMeda6K-564 https://www.youtube.com/watch?v=-XFtYzlog1Y https://www.youtube.com/watch?v=eDBpdy39zEk Ängshök filmer
+
+Ny gäst om en vecka

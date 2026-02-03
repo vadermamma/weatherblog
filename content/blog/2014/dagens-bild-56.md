@@ -1,0 +1,10 @@
+---
+title: "Dagens bild"
+date: 2014-06-20
+categories: 
+  - "dagens-bild"
+---
+
+[![IMG_3450 [1024x768]](images/img_3450-1024x768.jpg)](https://worldwideweatherblog.wordpress.com/wp-content/uploads/2014/06/img_3450-1024x768.jpg) _Liten kotte på kvällsbesök._
+
+[![IMG_3469 [1024x768]](images/img_3469-1024x768.jpg)](https://worldwideweatherblog.wordpress.com/wp-content/uploads/2014/06/img_3469-1024x768.jpg) _Mor och barn solar sig på morgonen._

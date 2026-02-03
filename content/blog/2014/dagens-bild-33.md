@@ -1,0 +1,10 @@
+---
+title: "Dagens bild"
+date: 2014-05-27
+categories: 
+  - "dagens-bild"
+---
+
+[![2013-09-02 15.03.51 [1024x768]](images/2013-09-02-15-03-51-1024x768.jpg)](http://worldwideweatherblog.wordpress.com/wp-content/uploads/2014/05/2013-09-02-15-03-51-1024x768.jpg) _Sköldpaddsört..._
+
+[![2013-09-02 15.08.14 [1024x768]](images/2013-09-02-15-08-14-1024x768.jpg)](http://worldwideweatherblog.wordpress.com/wp-content/uploads/2014/05/2013-09-02-15-08-14-1024x768.jpg) _med liten gäst!_

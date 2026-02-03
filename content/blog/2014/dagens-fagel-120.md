@@ -1,0 +1,19 @@
+---
+title: "Dagens fågel"
+date: 2014-10-07
+categories: 
+  - "dagens-fagel"
+  - "djur-natur"
+---
+
+**Rörsångare** ( Acrocephalus scirpaceus )
+
+![](images/Acrocephalus_scirpaceus_%28cropped%29.jpg)
+
+![](images/Reed_warbler_cuckoo.jpg) _Rörsångaren är en liten brun sångare med rödbrun övergump,lång näbb,platt panna och kort ögonbrynsstreck.Stjärten är rundad och könen är lika.Den häckar i bladvass i södra och mellersta Sverige. Den övervintrar i tropiska Afrika. Maten består av vatteninsekter och bladlöss. Boet är en skål av gräs och vassblad upphängd mellan vasstrån. Den är ofta värd för gökungar._ _Längd: 13 cm. Vingspann: 17-21 cm. Vikt: 10-15 gram. Livslängd: Upp till 12 år._
+
+Bilder [Falknatur](http://www.falknatur.se/arter/rorsangare.htm) Bilder [Vingspann](http://www.vingspann.se/rorsangare1.htm) Rörsångare bilder och läte
+
+https://www.youtube.com/watch?v=v-T8x7N4mE8 https://www.youtube.com/watch?v=UsOSPKrGtEY https://www.youtube.com/watch?v=kDvsXAZxzk4 Rörsångare filmer.
+
+På fredag kommer en ny fågel in för landning igen.

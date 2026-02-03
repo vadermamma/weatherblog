@@ -1,0 +1,19 @@
+---
+title: "Dagens bild"
+date: 2015-05-22
+categories: 
+  - "dagens-bild"
+  - "djur-natur"
+  - "djur-i-tradgarden"
+tags: 
+  - "asarum"
+  - "djur"
+  - "ekorre"
+  - "natur"
+---
+
+[![IMG_3605 [1024x768]](images/img_3605-1024x768.jpg)](https://worldwideweatherblog.wordpress.com/wp-content/uploads/2015/05/img_3605-1024x768.jpg)
+
+[![IMG_3606 [1024x768]](images/img_3606-1024x768.jpg)](https://worldwideweatherblog.wordpress.com/wp-content/uploads/2015/05/img_3606-1024x768.jpg)
+
+[![IMG_3608 [1024x768]](images/img_3608-1024x768.jpg)](https://worldwideweatherblog.wordpress.com/wp-content/uploads/2015/05/img_3608-1024x768.jpg) _Två små söta kompisar festar loss på solrosfröna i trädgården._

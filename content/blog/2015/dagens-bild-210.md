@@ -1,0 +1,13 @@
+---
+title: "Dagens bild"
+date: 2015-03-05
+categories: 
+  - "dagens-bild"
+tags: 
+  - "dubai"
+  - "fagel"
+  - "harfagel"
+  - "natur"
+---
+
+[![photo_20150305_091852](images/photo_20150305_091852.jpeg)](https://worldwideweatherblog.wordpress.com/wp-content/uploads/2015/03/photo_20150305_091852.jpeg) _Härfågel i Dubai._
